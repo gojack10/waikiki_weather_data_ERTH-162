@@ -1,6 +1,6 @@
 # ERTH 162 - Spring 2025 - Project #1: Data Collection
 
-This repository contains the code and data for Project #1 of ERTH 162, focusing on data collection and analysis.
+This repository contains the code and data for Project #1 of ERTH 162
 
 ## Project Overview
 
@@ -16,7 +16,7 @@ The primary goal of this project is to analyze weather data for Waikiki, Honolul
 
 ## Analysis
 
-The `main.R` script performs the following:
+The `main.R` script does the following:
 
 1.  Loads and preprocesses the weather data.
 2.  Generates time series plots for temperature, dew point, relative humidity, and precipitation.
